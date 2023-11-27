@@ -1,0 +1,26 @@
+1) Afficher toutes les oeuvres par ordre croissant de l'auteur
+2) Le nombre total de livres
+3) Le nombre d'exemplaires par oeuvre
+4) La liste des livres disponibles
+5) La liste des livres avec le nom de l'oeuvre correspondante
+6) Lister les adhérents qui habitent à "Lille" et qui se sont inscrits en 2018 et en 2019
+7) Combien de livres dont le titre commence par "Harry Potter" ?
+8) Quelle est l'oeuvre qui propose le plus d'exemplaires ? Afficher le nombre
+d'exemplaires ainsi que l'oeuvre
+9) Quels sont les adhérents qui ont empruntés des livres entre le 01/01/2021 et
+aujourd'hui ? (date du jour: 02/02/2022)
+10) Quelle est la durée (en jours) des retards pour chaque client ? Utiliser
+DATEDIFF
+11) Quels sont les livres actuellement en retard ? (date du jour: 02/02/2022)
+12) La bibliothèque vient d'acquérir un nouvel exemplaire de : « Da Vinci Code » de
+Dan Brown. Faire LES mises à jour nécessaires.
+13) Un nouvel adhérent vient s'inscrire : Olivier DUPOND, 76, quai de la Loire,
+59170 Roubaix, téléphone : 0327030405. Faire la mise à jour nécessaire.
+14) Quels sont les adhérents qui n'ont pas d'emprunt en cours ?
+15) Lister les adhérents qui n'ont pas encore rendu leur(s) livre(s).
+16) Louise Ouvrard vient de rendre son livre. Faire LES mises à jour nécessaire.
+17) Quelle est la durée moyenne des emprunts ?
+18) Quels sont les oeuvres qui n'ont jamais été empruntés ?
+19) Quels sont les livres qui n'ont jamais été empruntés ?
+20) Quels sont les livres qui n'ont jamais été empruntés ? Afficher l'oeuvre
+correspondante.
